@@ -1,0 +1,38 @@
+ourvector<i> stats: 
+# of vectors created:   15 
+# of elements inserted: 30 
+# of elements accessed: 40 
+********************************************************* 
+I create 1 at the structure for the DNASTR which stores the longest repeat I use in the function process. The second and at function getSTRPerson as a temporary function that I use to store the STR for one person so it 9. The others are the vector inside my double vector STRPerson. 
+The elements are in the getSTR, and DNASTR 
+There is a lot of access from the process and search functions 
+ 
+********************************************************* 
+ourvector<9ourvectorIiE> stats: 
+# of vectors created:   1 
+# of elements inserted: 3 
+# of elements accessed: 30 
+********************************************************* 
+The only double int vector I created is the STRPerson which store the longest repeat STR of every one in file. 
+Element insert 3 is because the small.txt has 3 people. 
+The access is from the print sequence, search functions. 
+********************************************************* 
+ourvector<c> stats: 
+# of vectors created:   27 
+# of elements inserted: 254 
+# of elements accessed: 2181 
+********************************************************* 
+I created one for the DNA at function, 2 temp at getname and getstr function, the other one is created when I try to access it through the functions. 
+It been insert through get name, getstr, load DNA, load_db 
+Access through print name, printstr, print search, and been access a lot in process funtions like match function for process, process_helper, print process, ... 
+********************************************************* 
+ourvector<9ourvectorIcE> stats: 
+# of vectors created:   2 
+# of elements inserted: 6 
+# of elements accessed: 72 
+********************************************************* 
+Two double vector char that I created are STR and Vecname and as its name it store STR and name of people in file. 
+It has been inserted 6 times  and those are names and SRT of 3 people from small.txt. 
+The access is from printname, print STR, a lot of access during process function. 
+ 
+ 
